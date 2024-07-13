@@ -1,6 +1,6 @@
 ## Tooltip-React-Test1-Coding-Ninjas
 
-React Tooltip Project :- https://github.com/Omentiwari/Tooltip-component/blob/main/README.md
+React Tooltip Project :-https://github.com/Omentiwari/Tooltip-component
 
 Welcome to the React Tooltip project! This project focuses on creating a tooltip component using React that displays when a button is hovered over. The position of the tooltip can be adjusted using the "position" prop, with options including "top", "bottom", "right", and "left".
 
